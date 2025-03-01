@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ### Run the application
 ```sh
-streamlit main.py
+streamlit run main.py
 ```
 
 ## Docker Deployment
