@@ -43,8 +43,3 @@ docker run -p 8501:8501 -p 8000:8000 llm-chatbot
 
 Now, open `http://localhost:8501` in your browser to access the chatbot.
 
-## Environment Variables
-Set `TOGETHER_API_KEY` before running the app.
-```sh
-export TOGETHER_API_KEY=your_api_key_here
-```
