@@ -1,6 +1,6 @@
 # LLM Chatbot
 
-This project is a chatbot interface using Together API with Streamlit and FastAPI, allowing model selection and conversation history.
+This project is a chatbot interface using Together API with Streamlit and FastAPI, allowing model selection and conversation summary history.
 
 ## Features
 - Choose from multiple AI models.
