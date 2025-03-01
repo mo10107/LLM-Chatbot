@@ -18,9 +18,6 @@ Defines the environment for running the application in **Docker**.
 ### 3. `requirements.txt` - Dependencies
 Lists the Python dependencies required to run the chatbot.
 
-### 4. `README.md` - Setup Guide
-Provides instructions on how to install, run, and deploy the project.
-
 ---
 
 ## Code Breakdown
