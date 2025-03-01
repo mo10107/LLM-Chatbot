@@ -1,4 +1,4 @@
-# LLM Chatbot - Code Documentation
+# LLM Chatbot
 
 ## Overview
 This project is a chatbot interface using **Streamlit** and **FastAPI**, integrating **Together API** to provide real-time conversational AI. It supports **multiple models**, **chat history**, and **Docker deployment**.
